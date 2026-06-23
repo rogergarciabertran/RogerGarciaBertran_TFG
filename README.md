@@ -1,12 +1,12 @@
 # RogerGarciaBertran_TFG
 Repositori amb els codis complets que formen el sistema del crawler i la seva configuració.
 # Requisits Principals
-·Raspberry Pi amb Ubuntu
-·ROS 2 Jazzy
-·Python 3
-·Paquets de ROS 2 necessaris per executar nodes, launch files i missatges estàndard
-·Llibreries de GPIO per al control de pins de la Raspberry Pi
-·Portàtil Windows per executar el script del comandament Xbox
+- `Raspberry Pi amb Ubuntu`
+- `ROS 2 Jazzy`
+- `Python 3`
+- `Paquets de ROS 2 necessaris per executar nodes, launch files i missatges estàndard`
+- `Llibreries de GPIO per al control de pins de la Raspberry Pi`
+- `Portàtil Windows per executar el script del comandament Xbox`
 # Com compilar
 colcon build --symlink-install
 # Launch Manual del sistema 
