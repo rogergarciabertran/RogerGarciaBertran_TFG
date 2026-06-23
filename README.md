@@ -17,7 +17,7 @@ source /opt/ros/jazzy/setup.bash
 
 source /home/crawler/crawler_ws/install/setup.bash export 
 
-ROS_DOMAIN_ID=10 
+export ROS_DOMAIN_ID=10 
 
 ros2 launch crawler_control bringup.launch.py use_joy:=false use_udp_joy:=true
 #  Instalar launch automàtic 
