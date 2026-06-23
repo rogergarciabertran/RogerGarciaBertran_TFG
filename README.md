@@ -30,15 +30,15 @@ python send_xbox_udp.py
 # Visualitzar telemetria del sistema 
 journalctl -u crawler_bringup.service -f
 # Tòpics principals 
--'/joy' 
-/crawler/motor1/cmd 
-/crawler/motor2/cmd 
-/crawler/motor1/dac_v 
-/crawler/motor2/dac_v 
-/crawler/motor1/fg_hz 
-/crawler/motor2/fg_hz 
-/crawler/motor1/rpm 
-/crawler/motor2/rpm 
-/crawler/power_enable 
-/crawler/imu/data
-/crawler/imu/mag
+- `/joy`
+- `/crawler/motor1/cmd`
+- `/crawler/motor2/cmd` 
+- `/crawler/motor1/dac_v` 
+- `/crawler/motor2/dac_v`
+- `/crawler/motor1/fg_hz` 
+- `/crawler/motor2/fg_hz` 
+- `/crawler/motor1/rpm` 
+- `/crawler/motor2/rpm`
+- `/crawler/power_enable` 
+- `/crawler/imu/data`
+- `/crawler/imu/mag`
