@@ -1,0 +1,10 @@
+{
+  "simulate": false,
+  "i2c_bus": 1,
+  "addr_motor1": 96,
+  "addr_motor2": 97,
+  "vref": 5.0,
+  "vmax": 5.0,
+  "gain_motor1": 1.0,
+  "gain_motor2": 1
+}

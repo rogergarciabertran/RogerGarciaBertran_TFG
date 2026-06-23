@@ -1,0 +1,5 @@
+{
+  "pwm_pin": 18,
+  "dir_pin": 23,
+  "max_duty": 1.0
+}

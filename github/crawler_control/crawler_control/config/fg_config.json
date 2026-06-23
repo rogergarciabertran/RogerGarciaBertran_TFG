@@ -1,0 +1,7 @@
+  {
+  "fg_pin": 24,
+  "pulses_per_rev": 1,
+  "window_s": 1.0,
+  "simulate": false,
+  "use_pullup": true
+}

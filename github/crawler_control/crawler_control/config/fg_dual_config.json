@@ -1,0 +1,10 @@
+{
+  "simulate": false,
+  "window_s": 0.1,
+
+  "fg1_pin": 20,
+  "pulses_per_rev_1": 6,
+
+  "fg2_pin": 24,
+  "pulses_per_rev_2": 6
+}

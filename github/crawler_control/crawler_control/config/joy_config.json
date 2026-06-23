@@ -1,0 +1,10 @@
+{
+  "axis_throttle": 1,
+  "axis_turn": 0,
+  "deadman_button": 4,
+  "deadzone": 0.08,
+  "gpiochip": 4,
+  "dir1_pin": 23,
+  "dir2_pin": 21,
+  "timeout_s": 0.6
+}
